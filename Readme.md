@@ -5,5 +5,11 @@ TOEFL 11 folder contains all the data from TOEFL corpus. The essays folder conta
 
 ASAP-AES folder contains all the data from ASAP corpus. More information: https://www.kaggle.com/c/asap-aes/data
 
-
-Literature contains two state-of-art paper on AES. Liu et al(2019) was trained on ASAP-AES dataset. Nadeem et al (2019) was trained on both. 
+Literature contains state-of-art papers on AES. 
+Ke and Ng (2019) is a review paper on AES.
+Liu et al(2019) was trained on ASAP-AES dataset. 
+Nadeem et al (2019) was trained on both. 
+Taghipour and Ng (2016) was trained on ASAP-ASE dataset.
+Dong et al (2017) was trained on ASAP-ASE dataset.
+Wang et al (2018) was trained on ASAP-ASE dataset.
+Cummins et al (2016) was trained on ASAP-ASE dataset.
